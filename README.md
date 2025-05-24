@@ -9,33 +9,37 @@ DuoAura Delights is a conceptual bakery brand that celebrates handcrafted cakes,
 
 🛠️ Technologies Used
 
-HTML5 & CSS3
+      i) HTML5 & CSS3
 
-Google Fonts & Font Awesome
+     ii) Google Fonts & Font Awesome
 
-Vanilla JavaScript (for form validation)
+    iii) Vanilla JavaScript (for form validation)
 
-Responsive Web Design (Flexbox & Media Queries)
+     iv) Responsive Web Design (Flexbox & Media Queries)
 
 📄 Website Pages
 
-Home – Hero section with brand intro & featured treats
+    i) Home – Hero section with brand intro & featured treats
 
-Menu – Card-style layout showcasing bakery items like cakes, cookies & more
+    ii) Menu – Card-style layout showcasing bakery items like cakes, cookies & more
 
-Offers – Highlights seasonal deals, combos & festive discounts
+    iii) Offers – Highlights seasonal deals, combos & festive discounts
+
 
 About – Tells the brand story and values in a clean layout
 
+
 Contact – Includes contact form with validation, location & social links
+
 
 🎨 Design Highlights
 
-Color Palette: Soft pinks, mint green, cream, and chocolate brown
+    I) Color Palette: Soft pinks, mint green, cream, and chocolate brown
 
-Fonts: Quicksand (body) & Playfair Display (headings)
+    II) Fonts: Quicksand (body) & Playfair Display (headings)
 
-Reusable UI: Navbar, footer, buttons, and responsive product cards
+    III) Reusable UI: Navbar, footer, buttons, and responsive product cards
+    
 
 📱 Responsive & Accessible
 
@@ -44,6 +48,7 @@ Works seamlessly across desktop, tablet, and mobile
 Semantic HTML & ARIA roles for accessibility
 
 Planned keyboard navigation and alt text support
+
 
 🚀 What’s Next
 
